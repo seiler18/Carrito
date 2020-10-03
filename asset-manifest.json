@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Carrito/static/css/main.5a16662e.chunk.css",
+    "main.js": "/Carrito/static/js/main.38db9e04.chunk.js",
+    "main.js.map": "/Carrito/static/js/main.38db9e04.chunk.js.map",
+    "runtime-main.js": "/Carrito/static/js/runtime-main.4b497501.js",
+    "runtime-main.js.map": "/Carrito/static/js/runtime-main.4b497501.js.map",
+    "static/js/2.e1046a3d.chunk.js": "/Carrito/static/js/2.e1046a3d.chunk.js",
+    "static/js/2.e1046a3d.chunk.js.map": "/Carrito/static/js/2.e1046a3d.chunk.js.map",
+    "index.html": "/Carrito/index.html",
+    "precache-manifest.31ad45c29d77ad9ff5df0ead32e7e9f9.js": "/Carrito/precache-manifest.31ad45c29d77ad9ff5df0ead32e7e9f9.js",
+    "service-worker.js": "/Carrito/service-worker.js",
+    "static/css/main.5a16662e.chunk.css.map": "/Carrito/static/css/main.5a16662e.chunk.css.map",
+    "static/js/2.e1046a3d.chunk.js.LICENSE.txt": "/Carrito/static/js/2.e1046a3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b497501.js",
+    "static/js/2.e1046a3d.chunk.js",
+    "static/css/main.5a16662e.chunk.css",
+    "static/js/main.38db9e04.chunk.js"
+  ]
+}
