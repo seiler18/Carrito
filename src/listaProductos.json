@@ -1,0 +1,31 @@
+{
+    "listaProductos":
+    [
+        {
+            "titulo": "Audifonos Negros y Azules",
+            "imagen":"https://image.freepik.com/vector-gratis/diseno-fondo-cascos_1063-131.jpg",
+            "valor":"25.000",
+            "descripcion":"Audifonos con gran desempeño y duracion de bat",
+            "stock": 4
+
+        },
+
+        {
+            "titulo": "Mouse inalambrico",
+            "imagen":"https://falabella.scene7.com/is/image/Falabella/7319539_1?wid=800&hei=800&qlt=70",
+            "valor":"19.000",
+            "descripcion":"Mouse ergonomico y facil de usar",
+            "stock":3
+
+        },
+
+        {
+            "titulo": "Monitor",
+            "imagen":"https://image.freepik.com/psd-gratis/imagen-tridimensional-computadora_53876-1610.jpg",
+            "valor":"110.000",
+            "descripcion":"Monitor HD 4K",
+            "stock":2
+        }
+
+    ]
+}
