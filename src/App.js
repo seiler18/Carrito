@@ -34,7 +34,7 @@ class App extends React.Component {
       <Container>
         <b>
           <h4>
-            <Navegacion titulo="Carrito de compras" />
+            <Navegacion titulo="Carrito" />
           </h4>
         </b>
         <Row>{arregloComponentes}</Row>
