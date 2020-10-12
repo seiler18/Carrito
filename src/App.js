@@ -5,6 +5,7 @@ import Navegacion from "./Componentes/Navegacion";
 import "./App.css";
 import { listaProductos } from "./listaProductos.json";
 import FooterPage from "./Componentes/Footer";
+import Banner from "./Componentes/FirmaCurriculo.png"
 
 class App extends React.Component {
   constructor() {
@@ -33,6 +34,15 @@ class App extends React.Component {
 
     return (
       <Container>
+<div className="container justify-content-center">
+        
+          <div className="container row justify-content-center">
+        <img src={Banner} alt="" width="100%" height="80%"/></div>
+          <br/>
+          
+          </div>
+          
+
         <b>
           <h4>
             <Navegacion titulo="Carrito" />

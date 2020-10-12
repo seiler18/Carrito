@@ -25,6 +25,30 @@
             "valor":"110.000",
             "descripcion":"Monitor HD 4K",
             "stock":2
+        },
+
+        {
+            "titulo": "SSD 480GB",
+            "imagen":"https://media.kingston.com/kingston/product/ktc-product-ssd-a400-sa400m8-480gb-3-zm-lg.jpg",
+            "valor":"80.000",
+            "descripcion":"SSD A400 pon a volar a tu maquina",
+            "stock":4
+        },
+
+        {
+            "titulo": "Tarjeta Grafica",
+            "imagen":"https://i.blogs.es/4cfcd3/geforce_gtx_1080_3/1366_2000.jpg",
+            "valor":"120.000",
+            "descripcion":"Las Mejores Graficas disponibles con esta tarjeta",
+            "stock":5
+        },
+
+        {
+            "titulo": "Celular Samsung",
+            "imagen":"https://www.lapolar.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc2dcd9b5/images/large/6CC21946826.JPG?sw=1200&sh=1200&sm=fit",
+            "valor":"320.000",
+            "descripcion":"Celular Moderno y actual",
+            "stock":6
         }
 
     ]

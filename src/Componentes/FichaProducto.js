@@ -35,11 +35,17 @@ listaCarrito.push({
   "titulo": this.props.props.titulo,
   "valor" : this.props.props.valor
 });
+
+if(this.state.stock !== 0){
+
+
 this.setState(prevState=>({
   modal:!prevState.modal,
   stock: prevState.stock -1 ,
 }));
+} else{alert("No se pueden agregar mas el siguiente producto : " + this.props.props.titulo + "\n Motivo : Se agoto el stock");}
   }
+
 
 
   render() {
