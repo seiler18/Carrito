@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/Carrito/static/css/main.ef782632.chunk.css",
-    "main.js": "/Carrito/static/js/main.0ee518ff.chunk.js",
-    "main.js.map": "/Carrito/static/js/main.0ee518ff.chunk.js.map",
+    "main.js": "/Carrito/static/js/main.2d190772.chunk.js",
+    "main.js.map": "/Carrito/static/js/main.2d190772.chunk.js.map",
     "runtime-main.js": "/Carrito/static/js/runtime-main.cab4e82f.js",
     "runtime-main.js.map": "/Carrito/static/js/runtime-main.cab4e82f.js.map",
-    "static/js/2.5f6c6617.chunk.js": "/Carrito/static/js/2.5f6c6617.chunk.js",
-    "static/js/2.5f6c6617.chunk.js.map": "/Carrito/static/js/2.5f6c6617.chunk.js.map",
+    "static/js/2.5f35645d.chunk.js": "/Carrito/static/js/2.5f35645d.chunk.js",
+    "static/js/2.5f35645d.chunk.js.map": "/Carrito/static/js/2.5f35645d.chunk.js.map",
     "index.html": "/Carrito/index.html",
-    "precache-manifest.870ca89d536224c6409fe7c49195bfb2.js": "/Carrito/precache-manifest.870ca89d536224c6409fe7c49195bfb2.js",
+    "precache-manifest.7a4269accd2956400ac7367da9726647.js": "/Carrito/precache-manifest.7a4269accd2956400ac7367da9726647.js",
     "service-worker.js": "/Carrito/service-worker.js",
     "static/css/main.ef782632.chunk.css.map": "/Carrito/static/css/main.ef782632.chunk.css.map",
-    "static/js/2.5f6c6617.chunk.js.LICENSE.txt": "/Carrito/static/js/2.5f6c6617.chunk.js.LICENSE.txt"
+    "static/js/2.5f35645d.chunk.js.LICENSE.txt": "/Carrito/static/js/2.5f35645d.chunk.js.LICENSE.txt",
+    "static/media/FirmaCurriculo.png": "/Carrito/static/media/FirmaCurriculo.12ff6e2b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cab4e82f.js",
-    "static/js/2.5f6c6617.chunk.js",
+    "static/js/2.5f35645d.chunk.js",
     "static/css/main.ef782632.chunk.css",
-    "static/js/main.0ee518ff.chunk.js"
+    "static/js/main.2d190772.chunk.js"
   ]
 }
